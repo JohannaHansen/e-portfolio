@@ -1,0 +1,1 @@
+Detta är koden till en temperaturmätare som använder sig av en arduino, sensorer och en microLCD skärm. Den varnar om reumstemperatren blir för hög för att människor ska kunna fokusera väl. Mätaren utvecklades under en kurs mitt första år på utbildningen. 
