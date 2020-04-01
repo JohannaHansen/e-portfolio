@@ -1,1 +1,1 @@
-Detta är ett spel som jag skapde inom en kurs som heter Datorteknik. Spelet kan spelas på en ChipKIT Uno32 och krävde därmed mycket hårdvarunära programmering men också ren mjukvaruutveckling. Spelet är skrivet i C.
+Detta är ett spel som jag skapde inom en kurs mitt första år på utbildningen. Spelet kan spelas på en ChipKIT Uno32 och krävde därmed mycket hårdvarunära programmering men också ren mjukvaruutveckling. Spelet är skrivet i C.
